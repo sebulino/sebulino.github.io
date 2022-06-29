@@ -72,7 +72,7 @@ repo: sebulino.github.io
 branch: master
 relative_source: ../
 destination: ./_site/
-production_url:  https://sebulino.github.io/
+production_url:  "https://sebulino.github.io/"
 source_url:  https://github.com/sebulino/sebulino.github.io/
 
 exclude:
