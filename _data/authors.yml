@@ -9,13 +9,13 @@ ghost:
   twitter: tryghost
   cover: False
 sebastian:
-  username: Sebulino
+  username: sebastian
   name: Sebastian Alscher
   location: Frankfurt, Germany
   url_full: https://sebastian-alscher.de
   url: sebastian-alscher.de
   bio: Is this really about me?
-  picture: assets/images/hannah.jpg
+  picture: assets/images/sebastian.jpg
   facebook: sebastianalscher
   twitter: sebulino
-  cover: assets/images/hannah-cover.jpg
+  cover: assets/images/sebastian-cover.jpg
