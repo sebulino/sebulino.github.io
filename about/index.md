@@ -2,9 +2,9 @@
 layout: page
 current: about
 title: About
-permalink: /about/
+permalink: about/
 navigation: true
-logo: 'assets/images/Sebulino.png'
+logo: 'assets/images/logo-black.png'
 class: page-template
 subclass: 'post page'
 ---
