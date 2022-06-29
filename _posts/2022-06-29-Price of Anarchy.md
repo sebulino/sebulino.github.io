@@ -10,9 +10,9 @@ class: post-template
 subclass: 'post'
 author: sebastian
 ---
-# Price of Anarchy - cool like a banana
+Whenever I read about PoA, I am immediately transported back to the circle of fellow adventurers who gather around a camping stove on a moist and overcast afternoon, watching chicken broth boil, and we all await our recovery after arriving at Barranco Camp, south of Kibo. 
 
-Whenever I read about PoA, I am immediately transported back to the circle of fellow adventurers who gather around a camping stove on a moist and overcast afternoon, watching chicken broth boil, and we all await our recovery after arriving at Barranco Camp, south of Kibo. Our guide casually asks if everybody is fine, and he usually receives back the familiar „Poa, kichisi kama ndizi“. Which loosely translates to „crazy cool like a banana“. But this is not about "Poa..." today. 
+Our guide casually asks if everybody is fine, and he usually receives back the familiar „Poa, kichisi kama ndizi“. Which loosely translates to „crazy cool like a banana“. But this is not about "Poa..." today. 
 What it really is about, though, is the Price of Anarchy, abbreviated as PoA. To keep things short and as that slight nod to the knowledgable and initiated. Which clearly I wasn’t, until a short while ago. And what for sure I was not, while I was sighing and surrendering to my fate of the punctured inflatable (not anymore) mattress on one of the first days on my way to Uhuru Peak.
 
 ### So what is it, PoA? 
