@@ -9,4 +9,4 @@ class: page-template
 subclass: 'post page'
 ---
 
-I guess this is about me then, no?
+I live in Frankfurt and love to build stuff.
